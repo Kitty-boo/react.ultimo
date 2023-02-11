@@ -1,0 +1,10 @@
+.active {
+    color:rgb(170, 148, 115);
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.inactive {
+    color:rgb(201, 180, 148);
+    text-decoration: none;
+}

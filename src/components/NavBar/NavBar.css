@@ -1,0 +1,17 @@
+.navBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.options {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.optionsList {
+    margin-left: 50px;
+}
